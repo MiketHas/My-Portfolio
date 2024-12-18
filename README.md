@@ -34,6 +34,7 @@ My unique blend of technical expertise and customer-facing experience makes me a
 * [Java Programming for Complete Beginners](https://softserve.udemy.com/course/java-programming-tutorial-for-beginners/learn/lecture/9565750?start=0#overview)
 * [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://softserve.udemy.com/course/selenium-real-time-examplesinterview-questions/learn/lecture/33478524?start=0#overview)
 * Internal course at SoftServe for Java Test Automation (50hrs)
+* [Quality Island - Wprowadzenie do testowania API w narzędziu Postman (eng. _Introduction to testing API with Postman_)](https://qualityisland.pl/)
 * [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/?srsltid=AfmBOorbwMdgdkCczW1cqp72AJ91zwx6EUyF5XXu0UTvEwX0NiPN8Q39)
 * [Programowanie w Javie: solidne findamenty (eng. _Java Programming: Solid foundations_)](https://www.udemy.com/course/programowanie-w-javie-solidne-fundamenty/?srsltid=AfmBOooSRHPgHWGFO2sGxB_oBGR9xAiL2p-IWSY7MxRq_U-w8v_Q1w_t&couponCode=ST21MT121624)
 * [Praktyczny kurs testowania oprogramowania (eng. _Practical software testing course_)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?srsltid=AfmBOopvaQ2LELxuq24p-piOKEN_YP8eyqRWVy1oNAkgtBniRcGujWIR&couponCode=ST21MT121624)
