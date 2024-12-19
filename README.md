@@ -1,8 +1,8 @@
 # portfolio
 # About Me
-My name is Mikołaj Hasik. I'm a self-taught tester and an ex-pharmaceutical representative. After 10 years of working for BigPharma I decided to join the IT industry as I was craving for self-development. Currently, I'm a Quality Control Engineer at SoftServe and I strive to become an automation tester in the future, hence I still work on my skills and knowledge in this regard.
+My name is Mikołaj Hasik. I'm a self-taught tester and a former pharmaceutical representative. After 10 years of working for Big Pharma, I decided to join the IT industry as I was craving self-development. Currently, I'm a Quality Control Engineer at SoftServe, and I strive to become an automation tester in the future. Therefore, I continue to work on improving my skills and knowledge in this regard.
 
-My unique blend of technical expertise and customer-facing experience makes me a versatile professional who is not afraid of direct contact with the customer to better understand their needs for the success of the project.
+My unique blend of technical expertise and customer-facing experience makes me a versatile professional who is not afraid of direct contact with customers to better understand their needs and ensure the success of the project.
 
 # Tools
 * Jira - Issue tracking tool
@@ -52,7 +52,14 @@ My unique blend of technical expertise and customer-facing experience makes me a
 * Testowanie oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - Materiały | Porady
 
-# My test case examples
+# My pet-projects
+* [SwagLabs Shop test automation (Java + Selenium)](https://github.com/MiketHas/SwagLabsShopTA)
+  - test plan,
+  - checklist,
+  - test cases,
+  - bug reports,
+  - test summary
+  - report
 
 # My bug reports
 
