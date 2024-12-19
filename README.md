@@ -52,14 +52,13 @@ My unique blend of technical expertise and customer-facing experience makes me a
 * Testowanie oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - Materiały | Porady
 
-# My pet-projects
+# My projects
 * [SwagLabs Shop test automation (Java + Selenium)](https://github.com/MiketHas/SwagLabsShopTA)
   - test plan,
   - checklist,
   - test cases,
   - bug reports,
-  - test summary
-  - report
+  - test summary report
 
 # My bug reports
 
