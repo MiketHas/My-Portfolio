@@ -44,7 +44,10 @@ Now the question remains - "why do I want to be a tester?" - Well, if you'd ask 
 # My mind-maps
 * [SinFashion.pl mind-map](https://drive.google.com/file/d/1tx-o5SVhBwrlx3_BXXBwlz_mGsQXk9gG/view?usp=sharing) - A mind-map of test cases made for an online shop
 
-# My bug reports
+# Examples of my bug reports
+* [Defect report for the Read AI platform](https://drive.google.com/file/d/1Rdh7R7xPuJD-umPk4gIEgfD4e617lzRw/view?usp=sharing)
+* [Defect report #1 for Images for Confluence](https://drive.google.com/file/d/11L3tBrI-rVhe855T7jZQtdkOR-G9MRGr/view?usp=sharing)
+* [Defect report #2 for Images for Confluence](https://drive.google.com/file/d/1LXd5a60gx0B7Guye527qS1TAlL8tROyj/view?usp=sharing)
 
 # Courses
 * [Java for Testers](https://softserve.udemy.com/course/java-for-testers-dmitry/learn/lecture/30765410?start=0#overview)
