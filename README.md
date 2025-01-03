@@ -24,6 +24,7 @@ Now the question remains - "why do I want to be a tester?" - Well, if you'd ask 
 * Writing Test Summary report
 * Finding unique CSS Selectors and xPaths
 * Writing tests in Java Selenium
+* Basic knowledge of HTML, CSS and JS
 
 # Certificates
 * [ISTQB](https://app.skillsclub.com/credential/52997-93f5676ca8806eab61f7999cdf1ad6c9717ab9bf67f0355332e72731be48b4c6) - No. 108311
