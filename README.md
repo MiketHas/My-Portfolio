@@ -1,6 +1,7 @@
 # Portfolio
 # About Me
-My name is Mikołaj Hasik. I'm a self-taught tester and a former pharmaceutical representative. After 10 years of working for Big Pharma, I decided to join the IT industry as I was craving self-development. Currently, I'm a Quality Control Engineer at SoftServe, and I strive to become an automation tester in the future. Therefore, I continue to work on improving my skills and knowledge in this regard.
+My name is Mikołaj Hasik. I'm a self-taught tester and a former pharmaceutical representative. After 10 years of working for Big Pharma, I decided to join the IT industry as I was craving self-development. Currently, I'm a Quality Control Engineer at SoftServe, and I strive to become an expert in this field. Therefore, I continue to work on improving my skills and knowledge in this regard which includes (but is not limited to) learning Java Test Automation.
+
 My unique blend of technical expertise and customer-facing experience makes me a versatile professional who is not afraid of direct contact with customers to better understand their needs and ensure the success of the project.
 
 # Tools
