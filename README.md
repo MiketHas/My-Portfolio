@@ -9,6 +9,8 @@ My unique blend of technical expertise and customer-facing experience makes me a
 * Confluence - a platform to write, keep, and connect documents
 * Zephyr Scale - test-management tool
 * IntelliJ IDE - development environment to write automated tests and apps
+* Jenkins - CI/CD for automated tests
+* Allure - Jenkins plugin for test reports
 * Postman - Testing tool for REST API
 * Github - developer platform to store, manage, and share code
 * Chrome Dev Tools - tracking errors and app performance
