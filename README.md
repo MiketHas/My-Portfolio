@@ -63,6 +63,7 @@ My unique blend of technical expertise and customer-facing experience makes me a
 * [Praktyczny kurs testowania oprogramowania (eng. _Practical software testing course_)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?srsltid=AfmBOopvaQ2LELxuq24p-piOKEN_YP8eyqRWVy1oNAkgtBniRcGujWIR&couponCode=ST21MT121624)
 * [Podstawy Scum i Agile - Teoria, Praktyka, Certyfikacja (eng. _Basics of Scrum and Agile - Theory, Practice, Certification_)](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/?srsltid=AfmBOoqbMMJo7R9DhCJeiqjfgPW8My4X0IXJCAWcFYOc4qzVureC7ju1&couponCode=ST21MT121624)
 * [Java for Beginners - JetBrains Academy](https://lp.jetbrains.com/academy/learn-java/)
+* [Jenkins of Podstaw: Pierwsze Kroki w CI/CD (eng. _Jenkins Basics: CI/CD First Steps_)](https://www.udemy.com/course/jenkins-od-podstaw/?srsltid=AfmBOorvTF8aCYyXoRjbBzLlN6Or86YyLbsAL2IwXLH3zh8HdvU9mZiz&couponCode=ST16MT28125CROW)
 
 # Books
 * R. Śmiglin - "Zawód Tester" (eng. _Tester Profession_)
